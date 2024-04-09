@@ -1,6 +1,6 @@
-2024-04-09T15:17:22.215Z [32minfo[39m: [32m[npm-wrapper.js:187:17] Calling validate with options: [39m
-2024-04-09T15:17:22.216Z [32minfo[39m: [32m[npm-wrapper.js:188:17] isESLINT: true[39m
-2024-04-09T15:17:22.217Z [32minfo[39m: [32m[npm-wrapper.js:189:17] isExpDesc: true[39m
+2024-04-09T15:38:05.051Z [32minfo[39m: [32m[npm-wrapper.js:187:17] Calling validate with options: [39m
+2024-04-09T15:38:05.053Z [32minfo[39m: [32m[npm-wrapper.js:188:17] isESLINT: true[39m
+2024-04-09T15:38:05.053Z [32minfo[39m: [32m[npm-wrapper.js:189:17] isExpDesc: true[39m
 {
   _: [],
   f: [
@@ -14,7 +14,7 @@
 /home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/experiment-descriptor.json
 Failed while validating /home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/experiment-descriptor.json
 Error: File does not exist
-2024-04-09T15:17:23.103Z [31merror[39m: [31m[main.js:187:11] Error validating Assessment files Cannot find module '/home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/experiment-descriptor.json'[39m
+2024-04-09T15:38:05.948Z [31merror[39m: [31m[main.js:187:11] Error validating Assessment files Cannot find module '/home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/experiment-descriptor.json'[39m
 [31mRequire stack:[39m
 [31m- /home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/node_modules/@virtual-labs/buildexp/main.js[39m
 [31m- /home/runner/work/exp-dummy-experiment1-iiith/exp-dummy-experiment1-iiith/node_modules/@virtual-labs/buildexp/npm-wrapper.js[39m
